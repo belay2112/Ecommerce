@@ -1,0 +1,21 @@
+\`\`\`
+// app/page.tsx
+import { getServerSession } from "next-auth/next"
+/** rest of code here **/
+
+// app/api/tasks/route.ts
+import { getServerSession } from "next-auth/next"
+/** rest of code here **/
+
+// app/api/tasks/[id]/route.ts
+import { getServerSession } from "next-auth/next"
+/** rest of code here **/
+
+// app/api/projects/route.ts
+import { getServerSession } from "next-auth/next"
+/** rest of code here **/
+
+// app/api/projects/[id]/route.ts
+import { getServerSession } from "next-auth/next"
+/** rest of code here **/
+\`\`\`
